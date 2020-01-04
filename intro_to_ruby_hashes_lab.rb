@@ -21,7 +21,7 @@ monopoly =
   {
     :pieces => 4,
     :rent_in_dollars => 
-      {:one => "1", :two => "3", :three => "3" , :four => "4"
+      {:names => "1", :two => "3", :three => "3" , :four => "4"
       }
   }
 }
