@@ -28,7 +28,7 @@ monopoly =
       {:reading_railroad => {}, 
       :b_and_o_railroad => {}, 
       :pennsylvania_railroad => {}, 
-      :short_line_railroad => {}}
+      :shortline_railroad => {}}
   }
 }
 end
