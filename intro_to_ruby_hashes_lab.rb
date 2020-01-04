@@ -25,7 +25,10 @@ monopoly =
       :three_pieces_owned => 100 , 
       :four_pieces_owned => 200},
     :names => 
-        {:one=> 1, :two => 1, :three => 1, :four => 1}
+      {:reading_railroad => {}, 
+      :b_and_o_railroad => {}, 
+      :pennsylvania_railroad => {}, 
+      :short_line_railroad => {}}
   }
 }
 end
