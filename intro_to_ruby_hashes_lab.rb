@@ -1,3 +1,5 @@
 def base_hash
-Hash.new
+monopoly = {
+  :railroads => {}
+}
 end 
